@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm Erik
+# Hi 👋, I'm Dibya
 
 ### Data Analytics • Data Science • Data Engineering
 
@@ -75,7 +75,7 @@ Recently worked as a **Business Intelligence Intern at Upay (UCB Fintech)**, bui
 
 ## 🧩 Problem Solving
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-250%2B_Python_problems-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/dibya_mallick/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-100%2B_Python_problems-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/dibya_mallick/)
 [![StrataScratch](https://img.shields.io/badge/StrataScratch-50%2B_SQL_problems-1F2937?style=flat-square)](https://platform.stratascratch.com/user/dibya19erik)
 ![Kaggle](https://img.shields.io/badge/Kaggle-Pandas_|_Data_Viz_|_Feature_Eng._|_Data_Cleaning-20BEFF?style=flat-square&logo=kaggle&logoColor=white)
 
