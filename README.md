@@ -21,7 +21,7 @@ Turning raw data into decisions from **SQL pipelines and data marts** to **dashb
 - ⚙️ **Data Engineering**: PostgreSQL pipelines, incremental loading, data marts, reconciliation and automated reporting
 - 🤖 **Data Science & ML**: predictive modeling, feature engineering, classification, model evaluation
 - 🗣️ **NLP**: transformer-based classification for Romanized Bangla (Banglish), on-device inference with ONNX
-- 🔌 **Backend & APIs**: FastAPI, REST APIs, validation, payment/AI API integration
+- 🔌 **Backend & APIs**: FastAPI, REST APIs, validation, AI API integration
 
 Recently worked as a **Business Intelligence Intern at Upay (UCB Fintech)**, building pipelines and analytics across **20K+ agents and 500K+ customers**. B.Sc. in CSE from **BRAC University** (CGPA 3.57/4.00).
 
