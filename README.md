@@ -4,7 +4,7 @@
 
 ### Data Analytics • Data Science • Data Engineering
 
-I turn raw data into decisions — from **SQL pipelines and data marts** to **dashboards, predictive models and NLP systems**.
+Turning raw data into decisions from **SQL pipelines and data marts** to **dashboards, predictive models and NLP systems**.
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dibya-ayishwarja-mallick)
 [![LeetCode](https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/dibya_mallick/)
@@ -63,27 +63,13 @@ Recently worked as a **Business Intelligence Intern at Upay (UCB Fintech)**, bui
 | Project | What it does | Stack |
 |---|---|---|
 | **Less Noise, More Signal** (B.Sc. Thesis) | Three-stage NLP pipeline classifying Banglish Android notifications into spam, emotion and importance. Macro F1 of **0.9867** (spam) and **0.8712** (importance). INT8-quantized ONNX models for private, on-device inference. | XLM-RoBERTa, PyTorch, ONNX |
-| **Customer Churn Prediction & Retention** | Churn framework over 7,043 telecom customers; flagged a **27%** churn rate, **$2.9M** at-risk revenue and a **14x** risk gap between contract types. Executive dashboard with 10+ KPIs. | Python, Feature Engineering, Power BI |
-| **NYC Yellow Taxi Analysis** | SQL EDA on ~**11M** rides with a Power BI dashboard tracking revenue ($287M), profit ($196M) and peak-hour demand. Diagnosed the 18:00 supply-demand gap. | SQL, Power BI |
+| [**Customer Churn Prediction & Retention**](https://github.com/Dibya-Mallick/Customer-Churn-Retention-Analysis-Power-BI) | Churn framework over 7,043 telecom customers; flagged a **27%** churn rate, **$2.9M** at-risk revenue and a **14x** risk gap between contract types. Executive dashboard with 10+ KPIs. | Python, Feature Engineering, Power BI |
+| [**NYC Yellow Taxi Analysis**](https://github.com/Dibya-Mallick/NYC-Yellow-Taxi-Business-Operation-Analysis) | SQL EDA on ~**11M** rides with a Power BI dashboard tracking revenue ($287M), profit ($196M) and peak-hour demand. Diagnosed the 18:00 supply-demand gap. | SQL, Power BI |
+| [**Global Superstore Sales & Profitability**](https://github.com/Dibya-Mallick/Global-Superstore-Sales-Profitability-Analysis-Power-BI-) | Sales and profitability analysis with an interactive Power BI dashboard. | Power BI, DAX |
 | **Snap-a-Store** | Turns menu photos into a reviewed catalog via Gemini structured extraction, with validated order workflows and PayPal Sandbox checkout (server-side verification, idempotent captures). | FastAPI, SQLite, Pydantic, Gemini API |
 | **Landing Page A/B Test** | A/B test on 10,000 simulated sessions: 8.4% vs 9.6% conversion (**+14.3%** uplift), two-proportion z-test (p = 0.036) with 95% CI. | Python, Hypothesis Testing |
-| **T20 Cricket Score Prediction** | Compared classical ML against neural networks using context-based features from historical match data. | Python, ML, Neural Networks |
-| **Text Classification (ML vs DL)** | Multi-class Q&A classifier; best weighted F1 with a BiGRU + GloVe model after systematic hyperparameter tuning. | NLP, BiGRU, GloVe |
-
-> 🔗 Add repository links to each project once the repos are public/pinned.
-
----
-
-## 💼 Experience
-
-**Business Intelligence Intern — Strategy & Product Division, Upay (UCB Fintech)** · May 2026 – Oct 2026
-
-- Built PostgreSQL pipelines and campaign queries tracking incremental transaction volume, churnback rate and regional performance across **20K+ agents / 500K+ customers**
-- Engineered service-wise **data marts** of churned customers using **incremental loading**, avoiding full reloads
-- Automated campaign management and reporting, replacing manual monitoring
-- Reconciled daily transactions across **5 utility services** and resolved **200+ monthly complaint tickets**
-- Published a weekly **Revenue Assurance** report for stakeholders
-- Identified mega-campaign winners from transaction patterns in line with AML & CFT regulations
+| [**T20 Cricket Score Prediction**](https://github.com/Dibya-Mallick/T20-Match-Score-Prediction) | Compared classical ML against neural networks using context-based features from historical match data. | Python, ML, Neural Networks |
+| [**Text Classification (ML vs DL)**](https://github.com/Dibya-Mallick/Text-Classification-Comparison) | Multi-class Q&A classifier; best weighted F1 with a BiGRU + GloVe model after systematic hyperparameter tuning. | NLP, BiGRU, GloVe |
 
 ---
 
